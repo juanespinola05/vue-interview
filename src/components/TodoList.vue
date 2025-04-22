@@ -45,6 +45,9 @@ export default {
         },
         {
           name: 'Bonus: armar un selector para renderizar las piezas segun su tipo (BASE, CAJON, PUERTA).'
+        },
+        {
+          name: 'Bonus 2: Realizar un formulario para crear una nueva pieza, con validación de los datos y persistencia.'
         }
       ]
     }
